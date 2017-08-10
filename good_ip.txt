@@ -1,4 +1,4 @@
-58.123.220.225 *.googlevideo.com gws 100 0 0
+
 1.255.33.250 *.googlevideo.com gws 101 0 0
 61.238.203.145 *.googlevideo.com gws 104 0 0
 58.123.220.233 edgestatic.com gws 107 0 0
